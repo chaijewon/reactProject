@@ -9,6 +9,8 @@ import Draggable from "react-draggable";
     { age > 20 && <li>Oysters</li> }
     { age > 25 && <li>Grappa</li> }
 
+    GIT HUB => 완료
+
  */
 class App extends Component{
     constructor(props) {
